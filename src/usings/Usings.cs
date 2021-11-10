@@ -1,0 +1,1 @@
+global using csharp10andnet6.usings.Model;
